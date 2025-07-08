@@ -12,7 +12,6 @@ Parses:
 - Python 3
 - BeautifulSoup4
 - lxml
-- Git (version control)
 
 ## 🚀 Setup & Run
 
